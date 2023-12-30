@@ -1,4 +1,4 @@
-[![Header](https://github.com/GretchenkoOleg/GretchenkoOleg/blob/main/assets/Header.png)]
+[![Header](https://github.com/GretchenkoOleg/GretchenkoOleg/blob/main/assets/Header%20CV.png)]
 
 About me 
 
