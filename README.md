@@ -18,7 +18,7 @@
 ![SoapUI](https://img.shields.io/badge/Soap_UI-fcdd1d?style-for-the-badge&logo=logo&logoColor=000000)
 ### Mobile testing
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-1c3645?style-for-the-badge&logo=androidstudio&logoColor=4889f5)
-![Xcode](https://img.shields.io/badge/xCode-ffffff?style-for-the-badge&logo=xcode&logoColor=1eadf5)
+![Xcode](https://img.shields.io/badge/Xcode-ffffff?style-for-the-badge&logo=xcode&logoColor=1eadf5)
 ![Charles](https://img.shields.io/badge/Charles-cce3f2?style-for-the-badge&logo=charles&logoColor=ffffff)
 ![Fiddler](https://img.shields.io/badge/Fiddler-36b44b?style-for-the-badge&logo=fiddler&logoColor=000000)
 ![Proxyman](https://img.shields.io/badge/Proxyman-34a7fc?style-for-the-badge&logo=proxyman&logoColor=000000)
